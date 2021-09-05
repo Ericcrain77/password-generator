@@ -5,16 +5,16 @@ This webpage will generate a password for you based on your preferences of wheth
 
 ## Screenshots
 Landing page
-![Alt text](/assets/images/Landing Page.jpg?raw=true "Landing Page")
+![Alt text](/assets/images/Landing-Page.jpg?raw=true "Landing Page")
 
 Character Length
-![Alt text](/assets/images/Character Length.jpg?raw=true "Character Length")
+![Alt text](/assets/images/Character-Length.jpg?raw=true "Character Length")
 
 Lower Case Letters
-![Alt text](/assets/images/Lower Case.jpg?raw=true "Lower Case")
+![Alt text](/assets/images/Lower-Case.jpg?raw=true "Lower Case")
 
 Upper Case Letters
-![Alt text](/assets/images/Upper Case.jpg?raw=true "Upper Case")
+![Alt text](/assets/images/Upper-Case.jpg?raw=true "Upper Case")
 
 Numbers
 ![Alt text](/assets/images/Numbers.jpg?raw=true "Numbers")
