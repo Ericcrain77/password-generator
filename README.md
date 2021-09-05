@@ -8,7 +8,7 @@ Landing page
 ![Alt text](/assets/images/Landing-Page.jpg?raw=true "Landing Page")
 
 Character Length
-![Alt text](/assets/images/Character-Length.jpg?raw=true "Character Length")
+![Alt text](/assets/images/Character-length.jpg?raw=true "Character Length")
 
 Lower Case Letters
 ![Alt text](/assets/images/Lower-Case.jpg?raw=true "Lower Case")
