@@ -23,7 +23,7 @@ Symbols
 ![Alt text](/assets/images/Symbols.jpg?raw=true "Symbols")
 
 Generated Password
-![Alt text](/assets/images/Generated Password.jpg?raw=true "Generated Password")
+![Alt text](/assets/images/Generated-Password.jpg?raw=true "Generated Password")
 
 ## Repository Link
 https://github.com/Ericcrain77/password-generator
